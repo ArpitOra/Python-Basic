@@ -2,4 +2,4 @@
 print("Hello World!")
 print("Welcome to the Python script!")
 print("This script demonstrates how to output data using the print() function.")
-print("By :- ARPIT ORA") 
+print("By :- ARPIT ORA")
